@@ -1,0 +1,42 @@
+en:
+  number:
+    currency:
+      format:
+        unit:       "$"
+        precision:  2
+        separator:  "."
+        delimiter:  ","
+        format:     "%u%n"
+
+  thanks:
+    order:          "Thank you for your order"
+
+  layouts:
+    application:
+      title:        "Pragmatic Bookshelf"
+      home:         "Home"
+      questions:    "Questions"
+      news:         "News"
+      contact:      "Contact"
+
+  store:
+    index:
+      title_html:   "Your Pragmatic Catalog"
+      add_html:     "Add to Cart"
+
+  carts:
+    cart:
+      title:        "Your Cart"
+      empty:        "Empty cart"
+      checkout:     "Checkout"
+
+  orders:
+    new:
+      legend:       "Please Enter Your Details"
+    form:
+      name:         "Name"
+      address_html: "Address"
+      email:        "E-mail"
+      pay_type:     "Pay with"
+      pay_prompt_html: "Select a payment method"
+      submit:       "Place Order"
